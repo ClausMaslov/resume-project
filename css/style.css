@@ -13,7 +13,7 @@ ul, ol {
   background: #ffffff;
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px; 
+  max-width: 1200px; 
   margin: 0 auto; 
 }
 
